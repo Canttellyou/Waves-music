@@ -209,7 +209,7 @@ function chillHop() {
       cover: "https://i.scdn.co/image/ab67616d0000b273ddf91be1181d4510cc27f5a4",
       artist: "Aves",
       audio: "https://mp3.chillhop.com/serve.php/?mp3=30308",
-      color: ["#B92E43", "#58733C"],
+      color: ["#DABA1A", "#58733C"],
       id: uuidv4(),
       active: false,
     },
