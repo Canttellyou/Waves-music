@@ -200,7 +200,7 @@ function chillHop() {
       cover: "https://i.scdn.co/image/ab67616d0000b27353b09005b0ac07d102b91b51",
       artist: "chromonicci",
       audio: "https://mp3.chillhop.com/serve.php/?mp3=30339",
-      color: ["#DABA1A", "#464D6A"],
+      color: ["#DABA1A", "#BB4553"],
       id: uuidv4(),
       active: false,
     },
