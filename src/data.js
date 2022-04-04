@@ -254,7 +254,7 @@ function chillHop() {
       cover: "https://i.scdn.co/image/ab67616d0000b2735ee8016d725358bfac550120",
       artist: "Aviino",
       audio: "https://mp3.chillhop.com/serve.php/?mp3=23057",
-      color: ["#FBEF97", "#4B3537"],
+      color: ["#D97342", "#FBEF97"],
       id: uuidv4(),
       active: false,
     },
