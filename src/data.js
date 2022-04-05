@@ -258,6 +258,33 @@ function chillHop() {
       id: uuidv4(),
       active: false,
     },
+    {
+      name: "There and back",
+      cover: "https://i.scdn.co/image/ab67616d0000b273a981e0b6ce259bc1a820018c",
+      artist: "Delayde, anybodyy",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=23192",
+      color: ["#9A44C0", "#A5E1BD"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "Bell Tower",
+      cover: "https://i.scdn.co/image/ab67616d0000b2733055a0a3763c99f9557e4029",
+      artist: "Mama audio",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=21734",
+      color: ["#859FAB", "#EE9C5C"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "Gratitude",
+      cover: "https://i.scdn.co/image/ab67616d0000b273143118dd9f488d42f78da13c",
+      artist: "fantompower",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=22792",
+      color: ["#FFFFFD", "#B37DBB"],
+      id: uuidv4(),
+      active: false,
+    },
   ];
 }
 
